@@ -1,0 +1,4 @@
+aiogram>=2.11
+python-dotenv
+loguru
+deep_translator  # для укр перевода
